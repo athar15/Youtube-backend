@@ -9,7 +9,7 @@
     "dev": "nodemon src/index.js"
   },
   "keywords": [
-    "javascrip",
+    "javascript",
     "backend"
   ],
   "author": "Athar Imam",
