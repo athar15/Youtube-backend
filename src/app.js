@@ -24,3 +24,4 @@ app.use("/api/v1//users", userRouter);
 
 // http://loclhost:4500/api/v1/users/register
 export { app };
+// module.exports = app;
